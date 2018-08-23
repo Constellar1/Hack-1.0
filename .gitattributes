@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+#include<stdlib.h>
+#include<stdio.h>
+
+int main(int argc, char **argv) {
+
+  printf("Josh Williams, Computer Science & Music Major\n");
+
+  return 0;
+}
